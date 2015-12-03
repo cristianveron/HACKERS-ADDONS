@@ -133,7 +133,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url": "https://www.dropbox.com/s/116cyxfbchnaofo/hackers-addons.xml?dl=0", "fanart": "http://www.lawebdelprogramador.com/usr/185000/185730/profileImage_origin.jpg?1430068485"}]
+SOURCES = [{"url": "https://dl.dropbox.com/s/116cyxfbchnaofo/hackers-addons.xml?", "fanart": "http://www.lawebdelprogramador.com/usr/185000/185730/profileImage_origin.jpg?1430068485"}]
 
 
 
